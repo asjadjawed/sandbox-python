@@ -1,8 +1,5 @@
-import random
-
-
 def main():
-    print(random.choice(["a", "b", "c"]))
+    print("Hello Python!")
 
 
 if __name__ == "__main__":
